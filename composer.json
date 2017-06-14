@@ -1,5 +1,5 @@
 {
-    "name": "thecodingmachine/washingmachine",
+    "name": "flandera/washingmachine",
     "description": "CI tool that integrates with Gitlab to show variations in the CRAP index",
     "type": "project",
     "repositories": [

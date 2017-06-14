@@ -126,11 +126,11 @@
         },
         {
             "name": "m4tthumphrey/php-gitlab-api",
-            "version": "7.16.0",
+            "version": "8.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/moufmouf/php-gitlab-api.git",
-                "reference": "c54645d9e5bfbc1565f38399de81fe5ce3700c8b"
+                "reference": "eea2a84a1ef247334f6f79a72a991c37b54551f2"
             },
             "dist": {
                 "type": "zip",
